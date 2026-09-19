@@ -1,6 +1,6 @@
 # Projects
 
-Here I will post all my academic and personal projects developed during my degree and personal coding journey.
+Here I will post all my academic and personal projects developed during my degree,personal coding journey and certifications.
 <br>
 <br>
 # UPCA 👨🏻‍🎓
@@ -19,7 +19,7 @@ Here I will post all my academic and personal projects developed during my degre
 * 3rd year ...
 <br>
 
-## 📜 Certifications & Education
+## 📜 Certifications
 
 - **Network Security** — *C-Academy/IPCA (2026)*  
   [Verify Certificate](https://github.com/user-attachments/files/32399798/Network.Security.Certificate.C-Academy.2026.pdf)
