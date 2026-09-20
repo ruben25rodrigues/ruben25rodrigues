@@ -12,7 +12,7 @@ Here I will post all my academic and personal projects developed during my degre
 * **1st year - C language project:**
   
   * **Operating Systems projects:**
-    * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Operating%20Systems%20Project)**
+    * **[Bash](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/Operating%20Systems%20Project)**
   * **Imperative Programming projects:**
     * **[Bank](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Imperative%20Programming%20Projects/Bank)**
 * **2nd year ...**
