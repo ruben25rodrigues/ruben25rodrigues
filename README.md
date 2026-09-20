@@ -10,9 +10,7 @@ Here I will post all my academic and personal projects developed during my degre
 ### **Bachelor's degree**: **LESI (BSc in Information Systems Engineering):** 
 
 * **1st year - C language project:**
-  
-  * **Data structure projects:**
-    * **[Garage project](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Data%20structure%20projects/Garage)**
+* 
   * **Operating Systems projects:**
     * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Operating%20Systems%20Project)**
   * **Imperative Programming projects:**
