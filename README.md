@@ -8,7 +8,6 @@ Here I will post all my academic and personal projects developed during my degre
 ## 🎓 Academic Projects
 
 ### **Bachelor's degree**: **LESI (BSc in Information Systems Engineering):** 
-### **Bachelor's degree: LESI (BSc in Information Systems Engineering):**
 
 * **1st year - C language project:**
   
