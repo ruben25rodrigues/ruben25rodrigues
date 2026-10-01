@@ -10,12 +10,15 @@ Here I will post all my academic and personal projects developed during my degre
 ### **Bachelor's degree**: **LESI (BSc in Information Systems Engineering):** 
 
 * **1st year - C language**
-  
+
+ * **Imperative Programming:**
+
+ * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming/Exercises)**
+ * **[Project](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming/Project)**
+
   * **Operating Systems:**
-    * **[Projects](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/2%C2%BAnd%20Semester/Operating%20Systems%20Project/Projects)**
-  * **Imperative Programming:**
-    * **[Projects](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming%20Projects/Projects)**
-    * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming%20Projects/Exercises)**
+    * **[Project]()**
+ 
 * **2nd year - C# language**
 
     * **Object-Oriented Programming:**
