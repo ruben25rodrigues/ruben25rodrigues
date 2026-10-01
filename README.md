@@ -11,9 +11,9 @@ Here I will post all my academic and personal projects developed during my degre
 
 * **1st year - C language**
   
-  * **Operating Systems projects:**
+  * **Operating Systems:**
     * **[Projects](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/2%C2%BAnd%20Semester/Operating%20Systems%20Project/Projects)**
-  * **Imperative Programming projects:**
+  * **Imperative Programming:**
     * **[Projects](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming%20Projects/Projects)**
     * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming%20Projects/Exercises)**
 * **2nd year - C# language**
