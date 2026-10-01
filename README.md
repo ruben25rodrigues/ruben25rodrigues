@@ -16,13 +16,13 @@ Here I will post all my academic and personal projects developed during my degre
  * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming/Exercises)**
  * **[Project](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/1%C2%BAst%20Semester/Imperative%20Programming/Project)**
 
-  * **Operating Systems:**
-    * **[Project]()**
+  * **Operating Systems:** 
+ * **[Project](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/1st%20Year/2%C2%BAnd%20Semester/Operating%20Systems%20Project/Project)**
  
 * **2nd year - C# language**
 
-    * **Object-Oriented Programming:**
-    * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/2%C2%BAnd%20Year/1%C2%BAst%20Semester/Object-Oriented%20Programming/exercices)**   
+   * **Object-Oriented Programming:**
+  * **[Exercises](https://github.com/ruben25rodrigues/ruben25rodrigues/tree/main/Bachelor's%20degree/Bachelor's%20degree/2%C2%BAnd%20Year/1%C2%BAst%20Semester/Object-Oriented%20Programming/Exercises)**   
 * **3rd year ...**
 <br>
 
